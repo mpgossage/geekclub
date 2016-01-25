@@ -1,0 +1,16 @@
+wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall
+wall,wall,wall,mud,wall,wall,mud,mud,None,mud,mud,mud,mud,mud,mud,wall
+wall,mud,None,None,None,None,None,None,None,mud,mud,mud,mud,mud,mud,wall
+wall,mud,mud,boulder,wall,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,wall
+wall,wall,mud,mud,mud,mud,wall,mud,mud,mud,mud,mud,mud,mud,mud,wall
+wall,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,wall
+wall,mud,mud,mud,wall,wall,mud,mud,boulder,mud,mud,mud,wall,mud,mud,wall
+wall,mud,mud,gem,mud,gem,mud,mud,mud,mud,mud,mud,mud,mud,mud,wall
+wall,mud,gem,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,wall
+wall,mud,boulder,mud,mud,mud,mud,gem,mud,mud,mud,mud,boulder,gem,boulder,wall
+wall,mud,mud,mud,mud,mud,mud,mud,mud,mud,boulder,mud,mud,mud,mud,wall
+wall,mud,mud,mud,mud,mud,mud,mud,mud,mud,wall,gem,mud,mud,mud,wall
+wall,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,mud,wall
+wall,mud,mud,boulder,mud,gem,gem,mud,wall,boulder,mud,mud,mud,mud,mud,wall
+wall,mud,mud,mud,mud,mud,mud,mud,mud,wall,mud,mud,mud,mud,mud,wall
+wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall
